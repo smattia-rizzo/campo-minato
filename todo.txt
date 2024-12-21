@@ -1,0 +1,9 @@
+Creazione della griglia di pulsanti
+- Definire la posizione delle bombe (matrice delle informazioni)
+- Gestione del click SX
+    - Scoprire la cella
+        - Visualizzare il numero
+        - Sconfitta
+    - Ricorsione su tutte le celle adiacenti ad uno zero
+- Gestione del click DX  bandierina
+- Gestione delle vittoria se ho scoperto tutte le celle che non sono bombe
